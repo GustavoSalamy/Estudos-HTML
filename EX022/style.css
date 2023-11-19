@@ -171,6 +171,7 @@ footer{
 }
 
 footer>p{
+    min-width: 800px;
     padding-top: 10px;
 }
 
