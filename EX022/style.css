@@ -164,7 +164,7 @@ main>p.ultimo{
 }
 
 footer{
-    width: 100%;
+    min-width: 800px;
     text-align: center;
     color: white;
     background-color: #1a5c38;
