@@ -19,7 +19,6 @@ body{
 }
 header{
     min-width: 800px;
-    width: 100%;
     height: 200px;
     color: white;
     background-image: linear-gradient(to bottom, #3ad07e 30%, #1a5c38);
